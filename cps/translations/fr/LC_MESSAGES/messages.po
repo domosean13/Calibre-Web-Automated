@@ -824,7 +824,7 @@ msgstr "Échec de la connexion : %(error)s"
 
 #: cps/admin.py:2975
 msgid "Restore failed: Calibre library path is not configured."
-msgstr ""
+msgstr "La restauration a échouée: le chemin vers la librairie Calibre n'est pas configuré."
 
 #: cps/admin.py:2980
 #, python-format
